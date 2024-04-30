@@ -1,0 +1,4 @@
+username,password,id,role,name,address,phone
+manage1,pass1,1,manager,Ali,24 St136,345-499-4995
+drive1,pass2,2,driver,Ahmed Abid,56 St82,111-222-4334
+drive2,pass3,3,driver,Ben Cook,48 St12,999-888-7777
